@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BackEnd Technologies**
 
-- 📫 How to reach me **jiteshs101@gmail.com**
+- 📫 How to reach me **jitust98@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
